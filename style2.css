@@ -1,0 +1,16 @@
+img{
+    width: 400px;
+    height: 500px;
+}
+.cat-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.cat-container h1{
+    font-size: 50px;
+    color: red;
+    margin-right: 20px;
+    text-align: center;
+}
